@@ -76,8 +76,8 @@ private final String ALERT_EMAIL = System.getenv("MAIL_USERNAME");
 ## ▶️ How to Run
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/inventory-management-system.git
-cd inventory-management-system
+git clone https://github.com/Rekha2805/inventory-management.git
+cd inventory-management
 ```
 
 ### Run the Application
